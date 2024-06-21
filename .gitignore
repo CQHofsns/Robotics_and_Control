@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Customm by Huy
+controller/.env/
+
 # C extensions
 *.so
 
