@@ -5,6 +5,7 @@ __pycache__/
 
 # Customm by Huy
 controller/.env/
+robot_arm_4dof/.env/
 
 # C extensions
 *.so
